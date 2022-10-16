@@ -1,0 +1,5 @@
+BeautifulSoup
+requests
+neo4j
+json
+webbrowser
